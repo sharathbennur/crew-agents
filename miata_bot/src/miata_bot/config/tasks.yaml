@@ -1,6 +1,6 @@
 research_task:
   description: >
-    Conduct a thorough research about {topic}
+    Conduct a thorough research about {topic} and Mazda Miatas in general.
     Make sure you find any interesting and relevant information given
     the current year is {current_year}.
   expected_output: >
@@ -9,7 +9,7 @@ research_task:
 
 reporting_task:
   description: >
-    Review the context you got and expand each topic into a full section for a report.
+    Review the context you got and expand each topic about Mazda Miatas into a full section for a report.
     Make sure the report is detailed and contains any and all relevant information.
   expected_output: >
     A fully fledged report with the main topics, each with a full section of information.
